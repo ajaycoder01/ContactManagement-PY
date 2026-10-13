@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "ajay",
+        "phone": "6575645678",
+        "email": "ajay@gmail.com",
+        "category": "friends"
+    },
+    {
+        "id": 2,
+        "name": "sagar",
+        "phone": "8765432134",
+        "email": "sagar@gmail.com",
+        "category": "friends"
+    }
+]
